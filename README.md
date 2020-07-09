@@ -1,5 +1,5 @@
 # HI!
 
-- 💻 Consult CTO (https://damianmac.com)
-- 🚲 RollCallBNE (https://damianmac.com/rollcallbne)
+- 💻 Consult CTO (https://damianm.com)
+- 🚲 RollCallBNE (https://damianm.com/rollcallbne)
 - 📨 NimbusAPI (https://nimbusapi.com)
